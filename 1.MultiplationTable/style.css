@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  background-image: url("./oleg-laptev-7jQh3EiS8Bs-unsplash.jpg");
+}
+.container {
+  max-width: 1280px;
+  margin: auto;
+  background-color: transparent;
+  padding: 20px 50px 50px 50px;
+}
+#table {
+  background-color: transparent;
+}
+table {
+  border: 0;
+  width: 900px;
+}
+table td {
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+  border: 1px solid;
+}
+
+h3 {
+  text-align: center;
+  font-family: serif;
+  font-size: 35px;
+  margin: 20px;
+  margin-bottom: 40px;
+  color: rgb(62, 54, 170);
+}
+

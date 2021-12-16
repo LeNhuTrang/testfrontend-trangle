@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.chart__input {
+  margin: auto;
+  width: 50%;
+}
+
+.chart__input__item {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+.chart__input__item label {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-right: 5px;
+  margin-top: 5px;
+  width: 20%;
+}
+.chart__input__item input {
+  width: 29%;
+  border: 1px solid rgb(177, 173, 173);
+  border-radius: 5px;
+}
+
+.chart {
+  text-align: center;
+  margin: 50px auto;
+  /* display: none; */
+}
+
+h4 {
+  text-align: center;
+  margin-bottom: 0px;
+}
+.button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
