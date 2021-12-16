@@ -6,4 +6,4 @@ Vui lòng download sourcecode và xem kết quả bằng cách:
   1. Vào file index.html của từng folder câu hỏi, 
   2. Click chuột phải, chọn Open with Live Server.
   
-PHẦN HAI: App chơi caro, được post tại sourcecode riêng đính kèm
+PHẦN HAI: App chơi caro, được post tại sourcecode riêng đính kèm: https://github.com/LeNhuTrang/tictactoe
